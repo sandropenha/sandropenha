@@ -1,7 +1,23 @@
 ### Hi there 👋
 
-I'm work on Data Science and I'm learning Data Engineering.
 
+Trabalho com dados desde 2014 e venho estudando Ciência de Dados e Engenharia de Dados desde então.
+
+Tenho experiência com implementação de algoritmos de Machine Learning e Data Analytics, criação de produtos de dados desde o ETL de grande volume de dados ao deploy de modelos.
+
+Em um de meus cases recentes, implementei a análise preditiva do quantitativo da carteira de clientes da operadora de saúde Hapvida, possibilitando ter uma visão a curto, médio e longo prazo do número de clientes da operadora.
+
+Minha stack técnica inclui: R, Python, SQL, Web Apps com Shiny, Spark, dentre outras tecnologias.
+
+-----------------------
+
+I've been work on data since 2014 and I've been studying Data Science and Data Engineering since then.
+
+I'm experienced on implementing Machine Learning and Data Analytics Algorithms, creating data products from large data ETL process to model deployment.
+
+One of my recesent cases, I implemented the predictive analysis of the quantitative of customer portfolio of the health care companny Hapvida, making it possible to have a short, medium and long term view of the number of customer portfolio.
+
+My technical stack includes: R, Python, SQL, Web Apps with Shiny, Spark, and others technologies.
 
 
 <div align="center">
