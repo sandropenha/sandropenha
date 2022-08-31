@@ -19,15 +19,6 @@ One of my recesent cases, I implemented the predictive analysis of the quantitat
 
 My technical stack includes: R, Python, SQL, Web Apps with Shiny, Spark, and others technologies.
 
-
-
-
-
-<div align="center">
-  <a href="https://github.com/sandropenha">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sandropenha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandropenha&layout=compact&langs_count=7&theme=dracula"/>
-</div>
   
 <div style="display: inline_block"><br>
 <img align="center" alt="sandro-py" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
