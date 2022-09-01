@@ -11,11 +11,11 @@ Minha stack técnica inclui: R, Python, SQL, Web Apps com Shiny, Spark, dentre o
 
 -----------------------
 
-I've been work on data since 2014 and I've been studying Data Science and Data Engineering since then.
+I've been working on data since 2014 and I've been studying Data Science and Data Engineering since then.
 
 I'm experienced on implementing Machine Learning and Data Analytics Algorithms, creating data products from large data ETL process to model deployment.
 
-One of my recesent cases, I implemented the predictive analysis of the quantitative of customer portfolio of the health care companny Hapvida, making it possible to have a short, medium and long term view of the number of customer portfolio.
+One of my recesent cases, I implemented a predictive quantitative   customer portfolio analysis of the health care company Hapvida, making it possible to have a short, medium and long term view of the  customers portfolio.
 
 My technical stack includes: R, Python, SQL, Web Apps with Shiny, Spark, and others technologies.
 
