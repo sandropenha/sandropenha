@@ -9,16 +9,6 @@ Em um de meus cases recentes, implementei a análise preditiva do quantitativo d
 
 Minha stack técnica inclui: R, Python, SQL, Web Apps com Shiny, Spark, dentre outras tecnologias.
 
------------------------
-
-I've been working on data since 2014 and I've been studying Data Science and Data Engineering since then.
-
-I'm experienced on implementing Machine Learning and Data Analytics Algorithms, creating data products from large data ETL process to model deployment.
-
-One of my recesent cases, I implemented a predictive quantitative   customer portfolio analysis of the health care company Hapvida, making it possible to have a short, medium and long term view of the  customers portfolio.
-
-My technical stack includes: R, Python, SQL, Web Apps with Shiny, Spark, and others technologies.
-
   
 <div style="display: inline_block"><br>
 <img align="center" alt="sandro-py" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
