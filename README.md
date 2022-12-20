@@ -1,13 +1,12 @@
 ### Hi there 👋
 
+Atuo em inteligência de dados desde 2014, sou certificado em Data Science pela IBM e pela Data Science Academy e possuo diversos cursos voltados a ciência de dados e engenharia de dados.
 
-Trabalho com dados desde 2014 e venho estudando Ciência de Dados e Engenharia de Dados desde então.
+Tenho experiência em implementação de algoritmos de Machine Learning e Data Analytics, criação de produtos de dados desde o ETL de grande volume de dados ao deploy de modelos de Machine Learning.
 
-Tenho experiência com implementação de algoritmos de Machine Learning e Data Analytics, criação de produtos de dados desde o ETL de grande volume de dados ao deploy de modelos.
+Em um de meus cases mais recentes, fui o responsável pela implantação do setor de Data Analytics na Hapvida Assistência Médica, implementando uma cultura de dados e gerenciamento de todos os projetos de Analytics e Ciência de dados da área.
 
-Em um de meus cases recentes, implementei a análise preditiva do quantitativo da carteira de clientes da operadora de saúde Hapvida, possibilitando ter uma visão a curto, médio e longo prazo do número de clientes da operadora.
-
-Minha stack técnica inclui: R, Python, SQL, Web Apps com Shiny, Spark, dentre outras tecnologias.
+Minha stack técnica inclui: R, Python, SQL, Web Apps, Spark, dentre outras tecnologias.
 
   
 <div style="display: inline_block"><br>
