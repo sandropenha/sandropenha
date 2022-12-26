@@ -4,9 +4,9 @@ Atuo em inteligência de dados desde 2014, sou certificado em Data Science pela 
 
 Tenho  experiência em desenvolvimento de produtos de dados desde o ETL de grande volume de dados ao deploy de modelos de Machine Learning e Data Analytics.
 
-Minha stack técnica inclui: R, Python, SQL, Web Apps, Spark, dentre outras tecnologias.
 
-  
+
+**Minha stack técnica inclui:** 
 <div style="display: inline_block"><br>
 <img align="center" alt="sandro-py" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 <img align="center" alt="sandro-tflow" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg">
